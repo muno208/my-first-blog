@@ -14,7 +14,7 @@ body {
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #293380;
     font-size: 36pt;
-    text-decoration: underline dotted;
+    text-decoration: none;
 }
 
 .content {
